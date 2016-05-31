@@ -24,4 +24,4 @@ _testmain.go
 *.msg
 *.lok
 
-./main
+main
